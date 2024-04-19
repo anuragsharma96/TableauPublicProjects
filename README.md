@@ -1,1 +1,2 @@
 # TableauPublicProjects
+This project list contains projects I completed during my training session at Able Jobs.In these projects I learnt how to use different charts and ho to visualize and filter data using Tableau Public. Kindly go through the PDF file for details of the project and to access the final Visualization. Furthermore, the data is meant to be used only for fair educational purposes, and the projects so uploaded are not meant to be copied in any form. I will be uploading more projects in the near future. Thank You Best wishes.
